@@ -7,6 +7,10 @@
     "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mjhmjh1104/gp-card.git"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
